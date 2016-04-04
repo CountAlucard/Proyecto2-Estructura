@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\carlos\documents\visual studio 2015\projects\sorting algorithms\sorting algorithms\MyForm.h(331): warning C4101: 'i': unreferenced local variable
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Sorting Algorithms.vcxproj -> C:\Users\Carlos\Documents\Visual Studio 2015\Projects\Sorting Algorithms\Debug\Sorting Algorithms.exe
+  Sorting Algorithms.vcxproj -> C:\Users\Carlos\Documents\Visual Studio 2015\Projects\Sorting Algorithms\Debug\Sorting Algorithms.pdb (Partial PDB)
